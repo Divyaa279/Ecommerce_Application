@@ -1,0 +1,1 @@
+Developed a simple E-Commerce application using the MERN stack, with ChakraUI for sleek and responsive UI design. The application allows users to add, edit, and delete products, and includes a theme-switching feature that supports both light and dark modes. 
